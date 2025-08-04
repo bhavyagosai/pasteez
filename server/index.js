@@ -39,8 +39,8 @@ app.use("/api/users", userRoutes);
 // --> Authorization required?: false
 // --> Body:
 // {
-//   "name": "Jaipal Jadeja",
-//   "username": "jaipaljadeja",
+//   "name": "Bhavya Gosai",
+//   "username": "bhavyagosai",
 //   "email": "abc@gmail.com",
 //   "password": "12345"
 // }
@@ -50,8 +50,8 @@ app.use("/api/users", userRoutes);
 // --> Authorization required?:false
 // --> Body:
 // {
-//   "email": "jadejajaipal5@gmail.com",
-//   "password": "jaipal"
+//   "email": "bhavyagosai4@gmail.com",
+//   "password": "bhavya"
 // }
 
 // --------------------- @GET /api/users/:username ---------------------
